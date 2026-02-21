@@ -4,10 +4,10 @@ Random learning tasks
 
 # Clustering and Recommender Systems in Data Mining
 My implementation of basic data mining techniques, including K-Means clustering with multiple distance metrics, can be found in this repository.
-✅ SSE analysis and convergence
-✅ User-based and item-based collaborative filtering
-✅ Probabilistic matrix factorization (PMF)
-✅ Impact analysis of hyperparameters and similarity metrics 
+-  SSE analysis and convergence
+-  User-based and item-based collaborative filtering
+-  Probabilistic matrix factorization (PMF)
+-  Impact analysis of hyperparameters and similarity metrics 
 
 
 When I started learning about data mining, I wanted to explore:
@@ -59,8 +59,8 @@ Implemented **K-Means from scratch** using:
 - **Fastest Convergence:** Cosine  
 - **Weakest Performance:** Euclidean  
 
-> Insight: Lower SSE does not always imply better alignment with ground truth labels.  
-> The choice of distance metric fundamentally changes cluster behavior.
+- **Lower SSE does not always imply better alignment with ground truth labels.  
+- **The choice of distance metric fundamentally changes cluster behavior.
 
 ---
 
